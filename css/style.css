@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto" sans-serif;
+  background-color: ;
+}
+
+:root {
+  --iris: #4d5ae5;
+  --ocean: #4d5ae5;
+  --navyblue: #2e2f42;
+  --green: #31d0aa;
+  --slate: #434455;
+  --lightslate: #8e8f99;
+  --cornerflower: #e7e9fc;
+  --cloud: #f4f4fd;
+  --navybluemodal: #2e2f42;
+  --grey: #2e2f42;
+  --white: #ffffff;
+  --dairy: #fcfcfc;
+}
+
+.header {
+  background-color: var(--white);
+  border-bottom: var(--cornerflower);
+}
+.main {
+  background-color: var(--white);
+}
+.hero {
+  background-color: var(--navyblue);
+}
+.features {
+  background-color: var(--white);
+}
+.services {
+  background-color: var(--white);
+}
