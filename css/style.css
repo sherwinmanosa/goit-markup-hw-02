@@ -32,11 +32,11 @@ body {
 .nav-logo {
   text-decoration: none;
   color: var(--navyblue);
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 800;
-  line-height: 21px;
+  line-height: 21px; /* 116.667% */
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
@@ -50,7 +50,8 @@ body {
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
-.nav-list {
+
+.nav-list-item {
   list-style: none;
 }
 
