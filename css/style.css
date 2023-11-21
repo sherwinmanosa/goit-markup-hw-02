@@ -71,6 +71,11 @@ body {
   color: var(--navyblue);
 }
 
+.nav-list-item:hover,
+.nav-list-item:focus {
+  color: var(--ocean);
+}
+
 .address-list-item-link {
   font-family: Roboto;
   font-size: 16px;
