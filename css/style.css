@@ -18,10 +18,11 @@ body {
   --slate: #434455;
   --lightslate: #8e8f99;
   --cornerflower: #e7e9fc;
-  --cloud: #f4f4fd;
+  --cloud: #f4f4fd; 
   --navybluemodal: #2e2f42;
   --white: #ffffff;
   --dairy: #fcfcfc;
+  
 }
 
 /* HEADER SECTION */
@@ -204,7 +205,7 @@ body {
 }
 
 .footer .span{
-  color: var(--cloud);
+  color: #f4f4fd;
 }
 .footer-p {
   font-family: Roboto;
