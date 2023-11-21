@@ -71,11 +71,13 @@ body {
   color: var(--navyblue);
 }
 
-.nav-list-item:hover,
-.nav-list-item:focus {
+.nav-list-item-link:hover,
+.nav-list-item-link:focus {
   color: var(--ocean);
 }
-
+.address {
+  font-style: normal;
+}
 .address-list-item-link {
   font-family: Roboto;
   font-size: 16px;
@@ -84,6 +86,11 @@ body {
   line-height: 24px; /* 150% */
   letter-spacing: 0.32px;
   color: var(--slate);
+}
+
+.address-link:hover,
+.address-link:focus {
+  color: var(--ocean);
 }
 
 .main {
