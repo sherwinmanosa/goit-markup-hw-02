@@ -53,6 +53,10 @@ body {
   text-decoration: none;
 }
 
+.list {
+  list-style: none;
+}
+
 .nav-list-item {
   list-style: none;
 }
@@ -66,9 +70,7 @@ body {
   letter-spacing: 0.32px;
   color: var(--navyblue);
 }
-.address-list {
-  list-style: none;
-}
+
 .address-list-item-link {
   font-family: Roboto;
   font-size: 16px;
@@ -125,9 +127,7 @@ body {
   letter-spacing: 0.02em;
   color: var(--navybluemodal);
 }
-.features-list {
-  list-style: none;
-}
+
 .item-title {
   font-family: Roboto;
   font-size: 20px;
@@ -150,10 +150,6 @@ body {
 /* Section 3 */
 .services-section {
   background-color: var(--white);
-}
-
-.services-list {
-  list-style: none;
 }
 
 /* Section 4 */
