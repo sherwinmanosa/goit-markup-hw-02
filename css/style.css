@@ -36,7 +36,7 @@ body {
   font-size: 18px;
   font-style: normal;
   font-weight: 800;
-  line-height: 21px; /* 116.667% */
+  line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
@@ -82,16 +82,16 @@ body {
 .main {
   background-color: var(--white);
 }
-.hero {
+.hero-section {
   background-color: var(--navyblue);
 }
-.hero-h1 {
+.hero-tittle {
   text-align: center;
   font-family: Roboto;
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
-  line-height: 60px;
+  line-height: 1.07;
   letter-spacing: 1.12px;
   color: var(--white);
 }
