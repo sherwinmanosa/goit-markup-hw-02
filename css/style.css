@@ -203,7 +203,7 @@ body {
   color: var(--iris);
 }
 
-.footer span{
+.footer .span{
   color: var(--navyblue);
 }
 .footer-p {
