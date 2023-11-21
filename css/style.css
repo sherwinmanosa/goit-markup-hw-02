@@ -115,6 +115,14 @@ body {
   background-color: var(--white);
 }
 
+.section-title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: 0.02em;
+  color: var(--navy-blue);
+}
 .features-list {
   list-style: none;
 }
@@ -140,18 +148,7 @@ body {
 .services {
   background-color: var(--white);
 }
-.services-h2 {
-  color: var(--navyblue);
-  text-align: center;
-  /* Header 2 */
-  font-family: Roboto;
-  font-size: 36px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 40px; /* 111.111% */
-  letter-spacing: 0.72px;
-  text-transform: capitalize;
-}
+
 .services-list {
   list-style: none;
 }
@@ -159,17 +156,7 @@ body {
 .team {
   background-color: var(--cloud);
 }
-.team-h2 {
-  text-align: center;
-  font-family: Roboto;
-  font-size: 36px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 40px;
-  letter-spacing: 0.72px;
-  text-transform: capitalize;
-  color: var(--navyblue);
-}
+
 .team-list {
   list-style: none;
 }
