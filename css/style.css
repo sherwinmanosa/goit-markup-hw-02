@@ -200,10 +200,10 @@ body {
   line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
-  color: var(--cloud);
+  color: var(--iris);
 }
 
-.footer a{
+.footer span{
   color: var(--navyblue);
 }
 .footer-p {
