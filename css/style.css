@@ -216,6 +216,17 @@ body {
   list-style: none;
 }
 
+.menu-button {
+  background-color: var(--iris);
+  color: var(--cloud);
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+
 .menu-list-item-link {
   text-decoration: none;
   text-align: center;
@@ -226,31 +237,4 @@ body {
   line-height: 24px;
   letter-spacing: 0.64px;
   color: var(--iris);
-}
-.projectcard1-list {
-  list-style: none;
-}
-.projectcard2-list {
-  list-style: none;
-}
-.projectcard3-list {
-  list-style: none;
-}
-.projectcard-list-h3 {
-  font-family: Roboto;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.4px;
-  color: var(--navyblue);
-}
-.projectcard-list-p {
-  font-family: Roboto;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px; /* 150% */
-  letter-spacing: 0.32px;
-  color: var(--slate);
 }
