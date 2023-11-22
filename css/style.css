@@ -216,7 +216,7 @@ body {
   list-style: none;
 }
 
-.menu-button {
+.button {
   background-color: var(--iris);
   color: var(--cloud);
   font-family: "Roboto", sans-serif;
@@ -225,16 +225,4 @@ body {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
-}
-
-.menu-list-item-link {
-  text-decoration: none;
-  text-align: center;
-  font-family: Roboto;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.64px;
-  color: var(--iris);
 }
