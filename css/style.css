@@ -99,7 +99,6 @@ body {
   background-color: var(--navyblue);
 }
 .hero-tittle {
-  text-align: center;
   font-family: Roboto;
   font-size: 56px;
   font-style: normal;
@@ -132,7 +131,6 @@ body {
 .section-title {
   font-size: 36px;
   line-height: 1.11;
-  text-align: center;
   text-transform: capitalize;
   letter-spacing: 0.02em;
   color: var(--navybluemodal);
