@@ -21,7 +21,6 @@ body {
 /* HEADER SECTION */
 .header {
   background-color: var(--white);
-  border-bottom: var(--cornerflower);
 }
 
 .logo {
